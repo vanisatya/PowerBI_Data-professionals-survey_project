@@ -1,4 +1,5 @@
-This Power BI project presents insights from a survey of data professionals, covering topics like salary, programming language preferences, work-life balance, 
-and happiness with salary. The project provides a detailed look at industry trends to help organizations and individuals understand key factors 
-influencing data professionals’ satisfaction and career choices.
+Leveraged Power Query and DAX functions to transform and clean survey data, creating custom measures and calculated columns that accurately captured trends in salary, programming language usage, work-life balance, and satisfaction levels across various demographics of data professionals.
+
+Implemented interactive visualizations and drill-through features in Power BI, allowing users to dive deep into specific segments (e.g., by job title, experience level, or location) and perform trend analysis, enhancing the data's accessibility and usability for strategic decision-making.
+
 
